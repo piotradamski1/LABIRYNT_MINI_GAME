@@ -1,0 +1,27 @@
+.pola{
+    border: 1px solid black;
+    height: 48px;
+    width: 48px;
+    position: absolute;
+}
+.players{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 300px;
+    border-radius: 25px;
+}
+#player1{
+    background: red;
+    left: 50px;
+}
+#player2{
+    background: blue;
+    left: 150px;
+}
+#startBt{
+    margin-left: 85px;
+}
+div {
+    margin: 50px 0px 0px 100px;
+}
